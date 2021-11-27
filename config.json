@@ -1,4 +1,4 @@
 {
-    "dl": "http://localhost:8000/dl",
-    "api": "http://localhost:8000"
+    "dl": "http://ec2-3-86-182-176.compute-1.amazonaws.com:8000/dl",
+    "api": "http://ec2-3-86-182-176.compute-1.amazonaws.com:8000"
 }
